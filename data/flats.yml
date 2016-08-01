@@ -1,0 +1,31 @@
+romain:
+  owner_name: Romain
+  picture: card-paris.jpg
+  owner_picture: romain1.jpeg
+  name: Romain's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  background1: card-paris.jpg
+  desc: Paris --- This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+francois:
+  owner_name: Francois
+  picture: card-london.jpeg
+  owner_picture: francois.jpeg
+  name: Francois's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  background1: card-london.jpeg
+  desc: London --- This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+mathieu:
+  owner_name: Mathieu
+  picture: card-brussels.jpeg
+  owner_picture: mathieu.jpeg
+  name: Mathieu's home
+  summary: Nice flat in Brussels
+  city: Brussels, BE
+  wifi: false
+  background1: card-brussels.jpeg
+  desc: Brussels --- This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+
